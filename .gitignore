@@ -1,0 +1,4 @@
+# Ignore the build directory
+/datos_crudos
+/datos_limpios
+*.csv
